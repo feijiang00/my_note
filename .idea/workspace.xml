@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="339884eb-98c3-483b-bc45-95e15cac1691" name="Default Changelist" comment="1-17,递归">
+      <change afterPath="$PROJECT_DIR$/kotlin/src/main/java/Hello.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin/src/main/java/base_yufa/first.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin/src/main/java/base_yufa/lei.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin/src/main/java/base_yufa/used_yufa.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin/src/main/java/base_yufa/when.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin/src/main/java/hello2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin/src/main/java/函数/Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin/src/main/java/基本类型/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin/src/main/java/类/Hello.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlin/src/main/java/类/InitOrderDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/double_compute/week79/Q6083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/double_compute/week79/Q6084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/simple_279/Q6000_对奇偶下标分别排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/simple_295/Q6078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/simple_295/Q6079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_note/src/main/java/剑指offer/Q28_对称的二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_note/src/main/java/每日一题/Q219_存在重复元素II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myqqrobot/myqqrobot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myqqrobot/myqqrobot/src/main/java/feijiang/robot/FeiJiangRobotApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myqqrobot/myqqrobot/src/main/java/feijiang/robot/basic/message/MyListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myqqrobot/myqqrobot/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myqqrobot/myqqrobot/src/main/resources/simbot-bots/myqq.bot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myqqrobot/myqqrobot/src/main/resources/simbot-bots/myqq.bot.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/assets/README-19ff7b4b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/assets/README-511a75f9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/base/DeprecatedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/base/Inheritable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/base/InheritableFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/base/InheritableSon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/base/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/base/OverrideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/base/SuppressWarningTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/data/AnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/data/DataAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/data/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/logger/AnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/logger/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/logger/LoggerAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/service/BeanUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/service/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/service/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/service/MyServiceAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/service/MyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/src/main/java/service/TestMyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Annotation/target/classes/META-INF/Annotation.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Cache/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Cache/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Cache/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Cache/src/main/java/cache/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Cache/src/main/java/cache/ContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Cache/src/main/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Cache/src/main/java/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Cache/src/main/java/service/QueryInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Cache/src/main/java/service/impl/QueryInfoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/fsm/FifthStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/fsm/FirstStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/fsm/FourthStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/fsm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/fsm/SecondStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/fsm/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/fsm/ThirdStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Access.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/And.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Arith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Do.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Expr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Id.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Logical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Not.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Op.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Or.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Rel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Seq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/SetElem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Stmt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/Unary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/inter/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/lexer/Lexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/lexer/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/lexer/Real.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/lexer/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/lexer/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/lexer/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/parser/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/symbols/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/symbols/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/symbols/Env.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Compiler/src/main/java/symbols/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Factory/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Factory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Factory/src/main/java/BaseProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Factory/src/main/java/BusinessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Factory/src/main/java/ProcessorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Factory/src/main/java/SupportEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Factory/src/main/java/TestApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Factory/src/main/java/TestOneProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Factory/src/main/java/TestTwoProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/src/main/java/ChannelFileReaderAndWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/src/main/java/GenerateFileByDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/src/main/java/ParseDB2Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/src/main/java/ParseVariable2Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/src/main/java/PatternMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/src/main/resources/CopyFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/src/main/resources/ReverseCopyFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/src/main/resources/SourceFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/src/main/resources/TargetFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/target/classes/CopyFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/target/classes/ReverseCopyFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/target/classes/SourceFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/HappyParse/target/classes/TargetFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/src/main/java/AgentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/src/main/java/demo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/src/main/java/demo/DogTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/src/main/java/demo/GreetingAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/src/main/java/demo/GreetingTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/src/main/java/demo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Instrument/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/JSONParse/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/JSONParse/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/JSONParse/src/main/java/JSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/JSONParse/src/main/java/JSONImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/JSONParse/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/JVM/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/JVM/src/main/java/ex1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/JVM/src/main/java/ex1/StackError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/JVM/src/main/java/ex3/Isalive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/JVM/src/main/java/ex4/TestGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/JVM/src/main/java/ex4/TestStopTheWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/MQ/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/MQ/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/MQ/src/main/java/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/MQ/src/main/java/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/MQ/src/main/java/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/MQ/src/main/java/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/aio/AcceptCompletionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/aio/AsyncTimeClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/aio/AsyncTimeServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/aio/ReadCompletionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/aio/TimeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/aio/TimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/bio/TimeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/bio/TimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/bio/TimeServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/netty/TimeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/netty/TimeClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/netty/TimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/netty/TimeServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/nio/MultiplexerTimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/nio/TimeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/nio/TimeClientHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/nio/TimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/pseudo/TimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/java/pseudo/TimeServerHandlerExecutePool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/resources/bio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/resources/io.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/resources/nioclient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/resources/nioserver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/src/main/resources/pseudo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/target/classes/bio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/target/classes/io.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/target/classes/nioclient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/target/classes/nioserver.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/NIO/target/classes/pseudo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/codec/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/codec/baseline/SubReqClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/codec/baseline/SubReqClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/codec/baseline/SubReqServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/codec/baseline/SubReqServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/codec/baseline/SubscribeReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/codec/baseline/SubscribeResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/file/FileServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/file/FileServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/http/HttpFileServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/http/HttpFileServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/http/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/bad/TimeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/bad/TimeClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/bad/TimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/bad/TimeServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/good/TimeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/good/TimeClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/good/TimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/good/TimeServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/good2/EchoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/good2/EchoClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/good2/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/good2/EchoServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/good3/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/sticky/good3/EchoServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/udp/ChineseProverbClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/udp/ChineseProverbClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/udp/ChineseProverbServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/udp/ChineseProverbServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/udp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/websocket/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/websocket/WebSocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/src/main/java/websocket/WebSocketServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/target/classes/META-INF/Netty.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/target/classes/SubscribeReq.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Netty/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ORM/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ORM/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ORM/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ORM/src/main/java/Sql2Pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ORM/src/main/java/files/comment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ORM/src/main/java/files/comment_result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ORM/src/main/java/files/takeout.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PageReplace/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PageReplace/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PageReplace/src/main/java/FIFO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PageReplace/src/main/java/LRU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PageReplace/src/main/java/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PageReplace/src/main/java/LRUNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PageReplace/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/ProcessorPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/ProcessorPoolImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/ActivityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/ActivityModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/ActivityRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/BaseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/BaseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/MyAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/MyActivityRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/MyRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/PrizeProbability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/RelationExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/RelationRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/Rule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/card/model/TransferRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/BizCheckServiceInvoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/CheckRoute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/CheckRouteCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/CheckRouteImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/CheckService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/RouteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/RouteEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/RouteEngineImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/model/BaseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/model/BizCheckExecuteRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/model/BizCheckRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/model/BizEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/model/BizResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/model/BusinessScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/model/CheckServiceCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/model/ConcurrentExecutionResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/model/RouteInfoResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/model/RouteRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/util/ConcurrentExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/util/ConcurrentExecutionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/check/util/RouteServiceUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/divide/DivideThePrize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/NodeExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/NodeExecutorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/model/BaseConcurrent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/model/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/model/Join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/model/Next.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/model/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/model/NodeConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/model/NodeContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/model/NodeResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/model/ProcessContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/model/ProcessModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/model/ProcessTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/model/ServiceNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/service/ClientCacheService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/service/ClientCacheServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/service/PrizeRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/sendprize/util/ThreadPoolManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/team/AbstractOptimisticLockUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/team/OptimisticLockUpdateTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/team/TeamOperationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/team/TeamOperationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/team/TeamOperationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/team/UpdateTeamInfoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/team/model/ServiceResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/team/model/TeamModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/PlayCenter/src/main/java/team/model/TeamOperationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/common/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/common/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/common/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/common/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/demo/RPCClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/demo/RPCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/demo/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/demo/ServiceCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/demo/ServiceProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/demo/ServiceProducerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc1/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc1/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc2/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc2/Stub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc2/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc3/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc3/Stub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc3/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc4/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc4/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc4/Stub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc4/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc5/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc5/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc5/Stub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc5/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc6/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc6/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc6/Stub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc6/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc7/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc7/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc7/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc7/Stub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc8/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc8/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc8/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc8/Stub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc8/util/HessianSDK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/src/main/java/rpc8/util/HessianVsJDK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/RPC/target/classes/META-INF/RPC.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/five/Children.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/five/GetObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/five/Intermediary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/five/Parents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/five/TestIntermediary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/four/BaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/four/ServiceInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/four/ServiceOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/four/ServiceTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/four/TestMethodInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/one/Children.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/one/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/one/Parents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/one/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/BeanUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/JsonLogInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/LogAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/LogAnnotationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/LogConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/LogInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/LogInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/LogStringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/LogTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/LogUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/TestHelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/service/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/service/impl/HelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/seven/service/impl/HelloServiceJsonImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/six/CopyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/six/GetObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/six/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/six/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/six/Parents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/six/TestIntermediary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/three/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/three/OtherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/three/ServiceInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/three/TestMethodInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/two/Children.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/two/GetObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/two/Intermediary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/two/Parents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/main/java/two/TestIntermediary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/src/test/java/TestReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/target/classes/META-INF/Reflection.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Reflection/target/test-classes/META-INF/Reflection.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/assets/README-26f0d6f5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/src/main/java/demo1/TestSetInjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/src/main/java/demo1/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/src/main/java/demo1/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/src/main/java/demo2/Autowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/src/main/java/demo2/TestAutowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/src/main/java/demo2/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/src/main/java/demo2/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/src/main/java/demo3/TestApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/src/main/java/demo3/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/SpringCore/target/classes/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Template/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Template/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Template/src/main/java/client/BaseQueryResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Template/src/main/java/client/BudgetCoreBusiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Template/src/main/java/client/ClientTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Template/src/main/java/service/BaseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Template/src/main/java/service/CheckException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Template/src/main/java/service/CheckUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Template/src/main/java/service/ProcessTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Template/src/main/java/service/ResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/Template/src/main/java/service/SendPrizeBusiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/BasicThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/DenyPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/InternalTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/LinkedRunnableQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/RunnableDenyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/RunnableQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/ThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/ThreadPoolService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/submittask/MainTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/submittask/PollingResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/submittask/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/submittask/SubmitCallableTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/submittask/SubmitCallableUnBlockTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/submittask/SubmitRunnableTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/worktogether/barrier/AutoPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/worktogether/barrier/BarrierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/worktogether/latch/GameCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/worktogether/latch/Gamer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/worktogether/latch/TestLatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ThreadPool/src/main/java/worktogether/latch/TimeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ToYaml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ToYaml/src/main/java/TransferUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ToYaml/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ToYaml/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ToYaml/src/test/java/TransferUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ToYaml/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/ToYaml/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode_note/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_note/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/doc/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/doc/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/doc/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/doc/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/simple_276/Q5194_得到目标值的最少行动次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/simple_276/Q5194_得到目标值的最少行动次数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode_note/src/main/java/剑指offer/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_note/src/main/java/剑指offer/TreeNode.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://D:/development/jdk/src.zip!/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="savedDocuments">
+              <list>
+                <AnonymousApexSavedDocument>
+                  <option name="name" value="Anonymous Apex 1" />
+                </AnonymousApexSavedDocument>
+              </list>
+            </option>
+          </AnonymousApexSettings>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.5.0" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="228HuQBQOunL5NX7egH5DtKjZXw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/myItem/Java/java2/wheel-master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;efaa8734c9a9d5560ca5889b5411f3ab&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\concurrent_note\src\main\java\chapter04" />
+      <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\designpattern_note\src\main\java\结构者模式" />
+      <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\designpattern_note\src\main\java\创建者模式" />
+      <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\0review_and_utils\src\main\java" />
+      <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\concurrent_note\src\main\java\chapter04\优化测试_wait" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\datastruct_note\src\main\java\linear" />
+      <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\datastruct_note\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="day01.demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myhomework.Demo1" />
+      <module name="0review_and_utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myhomework.d2022_7.findCycle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloKt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitOrderDemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="类.InitOrderDemoKt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基本类型.MainKt" />
+      <module name="kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeiJiangRobotApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="myqqrobot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="feijiang.robot.FeiJiangRobotApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="feijiang.robot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeiJiangRobotApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="myqqrobot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="feijiang.robot.core.FeiJiangRobotApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="feijiang.robot.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo1" />
+      <item itemvalue="Kotlin.MainKt" />
+      <item itemvalue="Kotlin.HelloKt" />
+      <item itemvalue="Kotlin.InitOrderDemoKt" />
+      <item itemvalue="Spring Boot.FeiJiangRobotApplication (1)" />
+      <item itemvalue="Spring Boot.FeiJiangRobotApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.InitOrderDemoKt" />
+        <item itemvalue="Kotlin.HelloKt" />
+        <item itemvalue="Spring Boot.FeiJiangRobotApplication (1)" />
+        <item itemvalue="Spring Boot.FeiJiangRobotApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="339884eb-98c3-483b-bc45-95e15cac1691" name="Default Changelist" comment="" />
+      <created>1639212519529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639212519529</updated>
+      <workItem from="1639212520768" duration="295000" />
+      <workItem from="1639212845062" duration="596000" />
+      <workItem from="1639358207722" duration="13094000" />
+      <workItem from="1639385489170" duration="251000" />
+      <workItem from="1639385778867" duration="463000" />
+      <workItem from="1639386291062" duration="74000" />
+      <workItem from="1639386404465" duration="1391000" />
+      <workItem from="1639387871956" duration="1277000" />
+      <workItem from="1639389235666" duration="400000" />
+      <workItem from="1639389690552" duration="342000" />
+      <workItem from="1639400660965" duration="4306000" />
+      <workItem from="1639446459891" duration="5906000" />
+      <workItem from="1639459372621" duration="9340000" />
+      <workItem from="1639489464888" duration="8739000" />
+      <workItem from="1639529028481" duration="7598000" />
+      <workItem from="1639549733156" duration="3022000" />
+      <workItem from="1639615680285" duration="4620000" />
+      <workItem from="1639671963181" duration="1189000" />
+      <workItem from="1639702215061" duration="7140000" />
+      <workItem from="1639744925713" duration="2449000" />
+      <workItem from="1639902729399" duration="76000" />
+      <workItem from="1639961795937" duration="6641000" />
+      <workItem from="1640069707181" duration="4412000" />
+      <workItem from="1640074679677" duration="5126000" />
+      <workItem from="1640106364295" duration="468000" />
+      <workItem from="1640106912163" duration="7453000" />
+      <workItem from="1640135795829" duration="10091000" />
+      <workItem from="1640310527618" duration="7189000" />
+      <workItem from="1640442826189" duration="4318000" />
+      <workItem from="1640615117823" duration="1186000" />
+      <workItem from="1641120591742" duration="8238000" />
+      <workItem from="1641217191359" duration="2435000" />
+      <workItem from="1641256757445" duration="11257000" />
+      <workItem from="1641304746827" duration="9820000" />
+      <workItem from="1641344196300" duration="12956000" />
+      <workItem from="1641383453080" duration="7213000" />
+      <workItem from="1641430399133" duration="3508000" />
+      <workItem from="1641441751688" duration="4602000" />
+      <workItem from="1641535980463" duration="9723000" />
+      <workItem from="1641557354943" duration="2366000" />
+      <workItem from="1641622590296" duration="21060000" />
+      <workItem from="1641739022558" duration="2307000" />
+      <workItem from="1641776497166" duration="15048000" />
+      <workItem from="1641882989072" duration="3113000" />
+      <workItem from="1641901757508" duration="2374000" />
+      <workItem from="1641906133481" duration="28000" />
+      <workItem from="1642037784150" duration="6739000" />
+      <workItem from="1642125938242" duration="7203000" />
+      <workItem from="1642163107377" duration="2616000" />
+      <workItem from="1642165775235" duration="5172000" />
+      <workItem from="1642206381630" duration="10022000" />
+      <workItem from="1642300373274" duration="4288000" />
+      <workItem from="1642379555172" duration="2116000" />
+      <workItem from="1642387403721" duration="33000" />
+      <workItem from="1642387454368" duration="13917000" />
+      <workItem from="1642425663934" duration="35227000" />
+      <workItem from="1642466173664" duration="31000" />
+      <workItem from="1642466346706" duration="20854000" />
+      <workItem from="1642551163286" duration="12819000" />
+      <workItem from="1642726465583" duration="16205000" />
+      <workItem from="1642748866567" duration="1352000" />
+      <workItem from="1642985225241" duration="824000" />
+      <workItem from="1642987246714" duration="4337000" />
+      <workItem from="1643013119255" duration="2858000" />
+      <workItem from="1643731863020" duration="4057000" />
+      <workItem from="1644115266710" duration="3543000" />
+      <workItem from="1644144120646" duration="1388000" />
+      <workItem from="1645386470614" duration="2418000" />
+      <workItem from="1645657077250" duration="24456000" />
+      <workItem from="1645962657387" duration="3135000" />
+      <workItem from="1646115866040" duration="19367000" />
+      <workItem from="1646384823397" duration="7582000" />
+      <workItem from="1646699130996" duration="6151000" />
+      <workItem from="1646786990923" duration="6940000" />
+      <workItem from="1647265238079" duration="1938000" />
+      <workItem from="1647504376623" duration="3867000" />
+      <workItem from="1647686133633" duration="654000" />
+      <workItem from="1647855417527" duration="7135000" />
+      <workItem from="1648789830853" duration="1620000" />
+      <workItem from="1649165461305" duration="1662000" />
+      <workItem from="1649387173582" duration="2973000" />
+      <workItem from="1650449870509" duration="16000" />
+      <workItem from="1653214725715" duration="934000" />
+      <workItem from="1653476423556" duration="1499000" />
+      <workItem from="1653642084988" duration="754000" />
+      <workItem from="1653704619970" duration="1120000" />
+      <workItem from="1653748375677" duration="5404000" />
+      <workItem from="1653791650773" duration="6053000" />
+      <workItem from="1653817799851" duration="89000" />
+      <workItem from="1654762566593" duration="1342000" />
+      <workItem from="1655005547270" duration="140000" />
+      <workItem from="1657623004900" duration="1334000" />
+      <workItem from="1657969055345" duration="699000" />
+      <workItem from="1658106394481" duration="2917000" />
+      <workItem from="1658212914351" duration="2350000" />
+      <workItem from="1658276519147" duration="2564000" />
+      <workItem from="1658281426900" duration="4092000" />
+      <workItem from="1658286409193" duration="177000" />
+      <workItem from="1658286598075" duration="6867000" />
+      <workItem from="1658363520079" duration="5187000" />
+      <workItem from="1658710504140" duration="4417000" />
+      <workItem from="1658883703807" duration="8717000" />
+      <workItem from="1658907839339" duration="1766000" />
+      <workItem from="1658969833713" duration="7824000" />
+      <workItem from="1659056579807" duration="14466000" />
+      <workItem from="1659314614717" duration="7758000" />
+      <workItem from="1659402535775" duration="2285000" />
+    </task>
+    <task id="LOCAL-00001" summary="12-14">
+      <created>1639448553084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639448553084</updated>
+    </task>
+    <task id="LOCAL-00002" summary="12-17，新增三四题">
+      <created>1639745133732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639745133732</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1-4，新增剑指offer三题">
+      <created>1641305123655</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641305123655</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1-5，jianzhioffer_8-9's question">
+      <created>1641351533834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641351533834</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1-7,修改尾插法将node.next 改成node，完全理解头插法和尾插法">
+      <created>1641541389427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641541389427</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1-10,lc学习计划">
+      <created>1641777758286</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641777758286</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1-10,周赛">
+      <created>1641777791170</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641777791170</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1-10,剑指offer">
+      <created>1641777811903</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1641777811903</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1-10,">
+      <created>1641784257366</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641784257366</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1-14,剑指offer">
+      <created>1642140114114</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1642140114114</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1-15,BFS">
+      <created>1642215152443</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1642215152443</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1-17,递归">
+      <created>1642406296395</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1642406296395</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="12-14" />
+    <MESSAGE value="12-17，新增三四题" />
+    <MESSAGE value="1-4，新增剑指offer三题" />
+    <MESSAGE value="1-5，jianzhioffer_8-9's question" />
+    <MESSAGE value="1-7,修改尾插法将node.next 改成node，完全理解头插法和尾插法" />
+    <MESSAGE value="1-10,lc学习计划" />
+    <MESSAGE value="1-10,周赛" />
+    <MESSAGE value="1-10,剑指offer" />
+    <MESSAGE value="1-10," />
+    <MESSAGE value="1-14,剑指offer" />
+    <MESSAGE value="1-15,BFS" />
+    <MESSAGE value="1-17,递归" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-17,递归" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode_note/src/main/java/lc学习计划/算法/Q35_搜索插入位置.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/Q5977_最少交换次数来组合所有的1.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/Q5977_最少交换次数来组合所有的1.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/simple_295/Q6078.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/simple_295/Q6079.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/0review_and_utils/src/main/java/myhomework/d2022_7/test.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

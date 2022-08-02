@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/concurrent_note/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode_note/pom.xml" />
+        <option value="$PROJECT_DIR$/mianshi_note/pom.xml" />
+        <option value="$PROJECT_DIR$/datastruct_note/pom.xml" />
+        <option value="$PROJECT_DIR$/jvm_note/pom.xml" />
+        <option value="$PROJECT_DIR$/jdk_note/pom.xml" />
+        <option value="$PROJECT_DIR$/mianshi_atguigu_note/pom.xml" />
+        <option value="$PROJECT_DIR$/designpattern_note/pom.xml" />
+        <option value="$PROJECT_DIR$/0review_and_utils/pom.xml" />
+        <option value="$PROJECT_DIR$/mysql_note/pom.xml" />
+        <option value="$PROJECT_DIR$/kotlin/pom.xml" />
+        <option value="$PROJECT_DIR$/myqqrobot/myqqrobot/pom.xml" />
+        <option value="$PROJECT_DIR$/wheel-master/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

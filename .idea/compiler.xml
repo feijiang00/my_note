@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JVM" />
+        <module name="RPC" />
+        <module name="PlayCenter" />
+        <module name="designpattern_note" />
+        <module name="ThreadPool" />
+        <module name="Factory" />
+        <module name="mianshi_atguigu_note" />
+        <module name="ORM" />
+        <module name="datastruct_note" />
+        <module name="Template" />
+        <module name="mianshi_note" />
+        <module name="nio" />
+        <module name="SpringCore" />
+        <module name="jvm_note" />
+        <module name="netty" />
+        <module name="myqqrobot" />
+        <module name="Compiler" />
+        <module name="MQ" />
+        <module name="PageReplace" />
+        <module name="concurrent_note" />
+        <module name="kotlin" />
+        <module name="Reflection" />
+        <module name="JSONParse" />
+        <module name="Annotation" />
+        <module name="jdk_note" />
+        <module name="mysql_note" />
+        <module name="HappyParse" />
+        <module name="0review_and_utils" />
+        <module name="leetcode_note" />
+        <module name="Instrument" />
+        <module name="Cache" />
+        <module name="ToYaml" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="atguigu_mianshi_note" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="myqqrobot" options="-parameters" />
+    </option>
+  </component>
+</project>
