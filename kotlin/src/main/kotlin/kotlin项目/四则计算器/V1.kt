@@ -33,13 +33,14 @@ fun main() {
 private fun calculate(inputList: List<String>): Int? {
     if (inputList.size != 3) return null
 
-    val left = inputList[0].toInt()
+    val left = inputList[0].toInt()  //kotlin统一了数组和集合的元素访问操作
     //                           ①
     //                           ↓
     val operation = Operation.valueOf(inputList[1])
     val right = inputList[2].toInt()
 
     return when (operation) {
+//        使用when表达式的时候尽量使用 枚举 和 密封类 类型
         Operation.ADD -> left + right
         Operation.MINUS -> left - right
         Operation.MULTI -> left * right

@@ -1,4 +1,4 @@
-package 异常
+package base_yufa.异常
 
 /**
 kotlin中 Unit 类似 java 中函数的void

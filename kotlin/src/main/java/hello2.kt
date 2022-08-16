@@ -1,2 +1,0 @@
-class hello2 {
-}

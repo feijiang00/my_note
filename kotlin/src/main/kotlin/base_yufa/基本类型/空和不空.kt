@@ -1,4 +1,4 @@
-package 基本类型
+package base_yufa.基本类型
 
 fun main(){
 

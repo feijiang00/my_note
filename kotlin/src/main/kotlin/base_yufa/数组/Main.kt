@@ -1,4 +1,4 @@
-package 数组
+package base_yufa.数组
 
 //kotlin创建数组一般是arrayOf
 fun main(){

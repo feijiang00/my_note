@@ -1,4 +1,4 @@
-package 异常;
+package base_yufa.异常;
 
 public class Main {
 
