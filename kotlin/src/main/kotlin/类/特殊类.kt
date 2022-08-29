@@ -12,6 +12,7 @@ enum class Human {
     MAN, WOMAN
 }
 
+//这里相当于把参数Human代入when表达式中
 fun isMan(data: Human) = when(data) {
     Human.MAN -> true
     Human.WOMAN -> false
@@ -27,11 +28,23 @@ sealed class Result<out R> {
     data class Loading(val time: Long = System.currentTimeMillis()) : Result<Nothing>()
 }
 
-//fun display(data: Result) = when(data) {
-//    is Result.Success -> displaySuccessUI(data)
-//    is Result.Error -> showErrorMsg(data)
-//    is Result.Loading -> showLoading()
-//}
+fun display(data: Result<*>) = when(data) {
+    is Result.Success<*> -> displaySuccessUI(data)
+    is Result.Error -> showErrorMsg(data)
+    is Result.Loading -> showLoading()
+}
+
+fun showLoading() {
+
+}
+
+fun showErrorMsg(data: Result.Error) {
+
+}
+
+fun displaySuccessUI(data: Result.Success<*>): Any? {
+    return null
+}
 
 fun main(){
 

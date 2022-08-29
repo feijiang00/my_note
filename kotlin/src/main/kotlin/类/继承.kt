@@ -24,7 +24,7 @@ class Abc : Ab() {
 
 fun main(){
     val a = AnyB() //
-    //超类中有以下三个函数
+    //超类中有以下三个函数，这个函数式每个类都具有的
     println(a.hashCode())
     println(a.toString())
     println(a.equals("a"))

@@ -1,6 +1,9 @@
 package tools.demo
 
 
+/*
+针对kotlin中，类的成员变量的get()的本质的研究
+ */
 class Person1(val name: String, var age: Int) {
     //isAdult本质是一个方法，
 //    public final boolean isAdult() {

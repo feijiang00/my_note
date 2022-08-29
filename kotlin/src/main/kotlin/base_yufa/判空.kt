@@ -18,5 +18,9 @@ fun main(){
     nullClass!!.nullFun()  //!!.判空，如果为空，不执行，还会抛出错误
 
     //ps 但是如果想要?.有点作为，那就需要上?: 了
+    //对象A ?: 对象B 表达式，意思为，当对象 A值为 null 时，那么它就会返回后面的对象 B。
+
     nullClass?.nullFun()?: println("nullClass 是空的，我有点作为了")
+
+
 }

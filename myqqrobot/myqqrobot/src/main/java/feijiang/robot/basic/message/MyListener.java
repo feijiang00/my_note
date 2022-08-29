@@ -1,4 +1,4 @@
-package feijiang.robot.basic.message;
+package main.java.feijiang.robot.basic.message;
 
 import love.forte.di.annotation.Beans;
 import love.forte.simboot.annotation.Listener;

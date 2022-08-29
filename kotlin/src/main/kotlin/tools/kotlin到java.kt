@@ -6,6 +6,10 @@ package 类
  * 转换流程： tools中  ——》 kotlin  ——》 show kotlin Bytecode  ——》然后转换出来 Decompile反编译得到java代码
  */
 fun main(){
+/*
+这里给个例子，对于变量的声明，java和kotlin中：
+kotlin没有基本类型都是对象，真的是这样么？转为java代码研究看看！
+ */
 // kotlin 代码
 
 // 用 val 定义可为空、不可为空的Long，并且赋值

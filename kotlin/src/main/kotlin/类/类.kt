@@ -1,4 +1,4 @@
-package base_yufa
+package 类
 
 class Rectangle(var height: Double, var length: Double) {
     var perimeter = (height + length) * 2

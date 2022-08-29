@@ -4,4 +4,6 @@ package base_yufa
 data class Customer(val name: String, val email: String)
 
 class used_yufa {
+    val a: Int? = null
+
 }

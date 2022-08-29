@@ -1,4 +1,4 @@
-package feijiang.robot
+package main.java.feijiang.robot
 
 import love.forte.simboot.spring.autoconfigure.EnableSimbot
 import org.springframework.boot.autoconfigure.SpringBootApplication

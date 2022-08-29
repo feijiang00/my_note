@@ -4,7 +4,9 @@ package base_yufa.函数
 /*
 关键字    函数名          参数类型   返回值类型
  ↓        ↓                ↓       ↓      */
-fun helloFunction(name: String): String {
+fun helloFunction(name: String = "shawu",
+                  age: Int = 18
+): String {
     return "Hello $name !"
 }/*   ↑
    花括号内为：函数体
@@ -24,11 +26,9 @@ class Test {
 fun main(args:Array<String>){
 
 
-    println(helloFunction("shawu"))
+    println(helloFunction("shawu",18))
 
     //命名参数
     helloFunction(name = "shawu")
-
-
 
 }
