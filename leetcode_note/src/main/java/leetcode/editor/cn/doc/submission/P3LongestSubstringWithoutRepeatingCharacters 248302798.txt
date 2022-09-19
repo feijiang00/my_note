@@ -1,0 +1,30 @@
+class Solution {
+    public int lengthOfLongestSubstring(String 剑指offerII) {
+		//暴力，找出所有子串就是on2，每次判断子串是否成功on，嵌套，on3
+		//优化，找子串，查找，必然是hashset，
+		Set<Character> set = new HashSet();
+		int len = 剑指offerII.length();
+		int i,j;
+		int max = 0;
+		for( i=0;i<len;i++){
+			set.add(剑指offerII.charAt(i));
+			for( j=i+1;j<len;j++){
+				if(!set.add(剑指offerII.charAt(j))){
+					//一但添加失败，那就是最长的一个子串,清空，break
+					//记录长度
+					if(max < set.size())
+						max = set.size();
+					set.clear();
+					break;
+			}
+		}
+    }
+		return max;
+	}
+}
+
+//total_testcases:987
+//total_correct:983
+//input_formatted:" "
+//expected_output:1
+//code_output:0
