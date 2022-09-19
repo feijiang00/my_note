@@ -22,7 +22,6 @@
         <module name="SpringCore" />
         <module name="jvm_note" />
         <module name="netty" />
-        <module name="myqqrobot" />
         <module name="Compiler" />
         <module name="MQ" />
         <module name="PageReplace" />
@@ -37,8 +36,21 @@
         <module name="0review_and_utils" />
         <module name="leetcode_note" />
         <module name="Instrument" />
+        <module name="qqrobot3" />
         <module name="Cache" />
         <module name="ToYaml" />
+      </profile>
+      <profile name="Annotation profile for myItem" enabled="true">
+        <sourceOutputDir name="../qqrobot2/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../qqrobot2/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myqqrobot" />
+      </profile>
+      <profile name="Annotation profile for qqrobot2" enabled="true">
+        <sourceOutputDir name="../../qqrobot2/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../qqrobot2/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qqrobot2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -48,6 +60,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="myqqrobot" options="-parameters" />
+      <module name="qqrobot2" options="-parameters" />
     </option>
   </component>
 </project>

@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339884eb-98c3-483b-bc45-95e15cac1691" name="Default Changelist" comment="更新base_yufa、扩展函数">
-      <change afterPath="$PROJECT_DIR$/concurrent_note/README.md" afterDir="false" />
+    <list default="true" id="339884eb-98c3-483b-bc45-95e15cac1691" name="Default Changelist" comment="qqrobot">
       <change beforePath="$PROJECT_DIR$/leetcode_note" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_note" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,16 +16,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/leetcode_note" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -83,23 +82,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;563e28e7d0c5f1479898a5ea5f1a26fa&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "E:/myItem/Java/java2/qqrobot2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.15977012",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "spring.configuration.checksum": "4343c6283b91b188759aa87b3b39e2d8"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\concurrent_note\src\main\java\chapter04" />
-      <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\designpattern_note\src\main\java\结构者模式" />
-      <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\designpattern_note\src\main\java\创建者模式" />
-      <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\0review_and_utils\src\main\java" />
-      <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\concurrent_note\src\main\java\chapter04\优化测试_wait" />
+      <recent name="E:\myItem\Java\qqrobot2\src\main\kotlin\feijiang\robot\core" />
+      <recent name="E:\myItem\Java\qqrobot2\src\main\kotlin\feijiang\robot\core\common" />
+      <recent name="E:\myItem\Java\java2\myqqrobot\myqqrobot\src\main\resources" />
+      <recent name="E:\myItem\Java\java2\myqqrobot\myqqrobot\src\main\java\feijiang\robot" />
+      <recent name="E:\myItem\Java\java2\readbookNote\src\互联网java1000道题" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\myItem\Java\java2\myItem" />
+      <recent name="E:\myItem\Java\java2" />
+      <recent name="E:\myItem\Java\java2\myqqrobot" />
       <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\datastruct_note\src\main\java\linear" />
       <recent name="D:\00NoteBook\java\java多线程，jvm，jdk源码\datastruct_note\src\main\java" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="feijiang.robot" />
+      <recent name="feijiang" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -115,7 +131,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.扩展函数Kt">
+  <component name="RunManager" selected="Spring Boot.FeiJiangRobotApplication (2)">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -129,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myhomework.Demo1" />
-      <module name="0review_and_utils" />
+    <configuration name="自增变量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atguigu.first.自增变量" />
+      <module name="mianshi_atguigu_note" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myhomework.d2022_7.findCycle.*" />
+          <option name="PATTERN" value="atguigu.first.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,9 +158,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java版本Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlin项目.四则计算器.Java版本Kt" />
-      <module name="kotlin" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="互联网java1000道题.java基础一.main" />
+      <module name="readbookNote" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="互联网java1000道题.java基础一.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="互联网java1000道题.test" />
+      <module name="readbookNote" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="互联网java1000道题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -170,35 +205,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="V1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlin项目.四则计算器.V1Kt" />
-      <module name="kotlin" />
+    <configuration name="FeiJiangRobotApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="myqqrobot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="feijiang.robot.FeiJiangRobotApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="feijiang.robot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="V2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlin项目.四则计算器.V2Kt" />
-      <module name="kotlin" />
+    <configuration name="FeiJiangRobotApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="qqrobot2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="feijiang.robot.FeiJiangRobotApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="feijiang.robot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Demo1" />
-      <item itemvalue="Kotlin.扩展函数Kt" />
-      <item itemvalue="Kotlin.Java版本Kt" />
-      <item itemvalue="Kotlin.V1Kt" />
-      <item itemvalue="Kotlin.V2Kt" />
-      <item itemvalue="Kotlin.判空Kt" />
-    </list>
+    <configuration name="FeiJiangRobotApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qqrobot2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="feijiang.robot.FeiJiangRobotApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeiJiangRobotApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="myqqrobot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="main.java.feijiang.robot.FeiJiangRobotApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.扩展函数Kt" />
-        <item itemvalue="Kotlin.V2Kt" />
-        <item itemvalue="Kotlin.判空Kt" />
-        <item itemvalue="Kotlin.V1Kt" />
-        <item itemvalue="Kotlin.Java版本Kt" />
+        <item itemvalue="Spring Boot.FeiJiangRobotApplication (2)" />
+        <item itemvalue="Spring Boot.FeiJiangRobotApplication (1)" />
+        <item itemvalue="Application.自增变量" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +397,32 @@
       <workItem from="1660271210556" duration="1309000" />
       <workItem from="1660351650350" duration="2440000" />
       <workItem from="1660526369077" duration="12654000" />
-      <workItem from="1660610097710" duration="9815000" />
+      <workItem from="1660610097710" duration="10444000" />
+      <workItem from="1660703593885" duration="3640000" />
+      <workItem from="1660790864984" duration="3920000" />
+      <workItem from="1661137934837" duration="1274000" />
+      <workItem from="1661218499854" duration="748000" />
+      <workItem from="1661477272303" duration="767000" />
+      <workItem from="1661478109804" duration="10283000" />
+      <workItem from="1661738398137" duration="12867000" />
+      <workItem from="1661830508730" duration="2301000" />
+      <workItem from="1661842458953" duration="273000" />
+      <workItem from="1661910719805" duration="1720000" />
+      <workItem from="1661916145376" duration="2480000" />
+      <workItem from="1661940194788" duration="4282000" />
+      <workItem from="1661995644380" duration="834000" />
+      <workItem from="1662001284288" duration="614000" />
+      <workItem from="1662007718931" duration="2730000" />
+      <workItem from="1662346083132" duration="3769000" />
+      <workItem from="1662551912910" duration="1506000" />
+      <workItem from="1662553445040" duration="3778000" />
+      <workItem from="1663242304088" duration="1418000" />
+      <workItem from="1663386064265" duration="3384000" />
+      <workItem from="1663409290614" duration="3946000" />
+      <workItem from="1663420361451" duration="2184000" />
+      <workItem from="1663548761705" duration="3024000" />
+      <workItem from="1663551812253" duration="450000" />
+      <workItem from="1663552292542" duration="1175000" />
     </task>
     <task id="LOCAL-00001" summary="12-14">
       <created>1639448553084</created>
@@ -451,7 +529,42 @@
       <option name="project" value="LOCAL" />
       <updated>1660648032357</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add readme">
+      <created>1660648366683</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1660648366683</updated>
+    </task>
+    <task id="LOCAL-00017" summary="kotlin">
+      <created>1661742709677</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661742709677</updated>
+    </task>
+    <task id="LOCAL-00018" summary="kotlin">
+      <created>1661743690441</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1661743690441</updated>
+    </task>
+    <task id="LOCAL-00019" summary="kotlin">
+      <created>1661743771992</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1661743771992</updated>
+    </task>
+    <task id="LOCAL-00020" summary="qqrobot">
+      <created>1663552747437</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1663552747437</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,36 +610,14 @@
     <MESSAGE value="kotlin基础语法、基础类" />
     <MESSAGE value="kotlin计算机和判空" />
     <MESSAGE value="更新base_yufa、扩展函数" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新base_yufa、扩展函数" />
+    <MESSAGE value="add readme" />
+    <MESSAGE value="kotlin" />
+    <MESSAGE value="qqrobot" />
+    <option name="LAST_COMMIT_MESSAGE" value="qqrobot" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode_note/src/main/java/lc学习计划/算法/Q35_搜索插入位置.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/Q5977_最少交换次数来组合所有的1.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/Q5977_最少交换次数来组合所有的1.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/simple_295/Q6078.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode_note/src/main/java/leetcode/editor/cn/myItem/simple_computer/simple_295/Q6079.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/0review_and_utils/src/main/java/myhomework/d2022_7/test.java</url>
           <line>23</line>
@@ -534,5 +625,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
