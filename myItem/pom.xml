@@ -11,8 +11,8 @@
 
     <modules>
         <module>myqqrobot</module>
-        <module>qqrobot2</module>
         <module>qqrobot3</module>
+        <module>qqrobot2</module>
     </modules>
 
 </project>
