@@ -1,0 +1,46 @@
+server:
+  port: 8880
+spring:
+  profiles:
+    active: test #不同环境对应pom切换
+#  datasource: #数据库链接相关配置
+#    druid:
+#      username: root
+#      password: jiang0406@
+#      url: jdbc:mysql://121.40.221.224:3306/qqrobot?useUnicode=true&characterEncoding=UTF8&useSSL=false&serverTimezone=Asia/Shanghai
+#      driver-class-name: com.mysql.cj.jdbc.Driver
+#      db-type: com.alibaba.druid.pool.DruidDataSource
+#      initialSize: 5
+#      minIdle: 5
+#      maxActive: 20
+#      maxWait: 60000
+#      testWhileIdle: true
+#      testOnBorrow: true
+#      timeBetweenEvictionRunsMillis: 60000
+#      minEvictableIdleTimeMillis: 300000
+#      validationQuery: SELECT 1
+#      filter:
+#        wall:
+#          config:
+#            show-allow: true
+
+logging:
+  level:
+    ROOT: INFO
+#    pers.wuyou.robot: DEBUG
+
+## 点歌功能配置
+#music:
+#  autoLogin: false
+#  tencent:
+#    account: ${QQ_UIN}
+#    password: ${QQ_PWD}
+#  netEase:
+#    account: ${NET_EASE_UIN}
+#    password: ${NET_EASE_PWD}
+#    serverHost: http://netmusic.wuyourj.club/
+## 项目域名
+#robot:
+#  host: http://robot.wuyourj.club/
+#  ip-host: http://robot.wuyourj.club/
+#  tianapi-key: ${TIANAPI_KEY}
