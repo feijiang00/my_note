@@ -41,6 +41,7 @@ class CalculatorV2 {
     private fun calculate(input: String): String? {
         if (shouldExit(input)) exitProcess(0)
 
+        //？： 运用，当前面为null时，执行后面的表达式或者语句
         val exp = parseExpression(input) ?: return null
 
         val left = exp.left
@@ -79,6 +80,9 @@ class CalculatorV2 {
         return input == exit
     }
 
+    /*
+    这里返回的是一个数据类
+     */
     private fun parseExpression(input: String): Expression? {
         val operation = parseOperator(input) ?: return null
         val list = input.split(operation.value)

@@ -2,7 +2,9 @@ package kotlin项目.四则计算器
 
 import kotlin.system.exitProcess
 
-
+/**
+ * java思想的kotlin写法
+ */
 fun main() {
     while(true) {
         // 初始化，打印提示信息
